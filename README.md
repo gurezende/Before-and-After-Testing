@@ -8,7 +8,7 @@ This code is part of a tutorial written on my Medium Blog where I was able to pe
 
 ![](/groups%20difference.PNG)
    
-7. Calculating a 95% confidence interval.
+6. Calculating a 95% confidence interval.
 
 ![](/DiD_mean.PNG)
 
