@@ -6,4 +6,5 @@ This code is part of a tutorial written on my Medium Blog where I was able to pe
 5. Visualizing the difference of the samples.
 6. Calculating a 95% confidence interval.
 
-![](/main/DiD_mean.PNG)
+![](blob/main/DiD_mean.PNG)
+
