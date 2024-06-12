@@ -6,7 +6,7 @@ This code is part of a tutorial written on my Medium Blog where I was able to pe
 5. Visualizing the difference of the samples.
 
 
-![](/groups%20difference.PNG)
+![](/control%20vs%20test.PNG)
    
 6. Calculating a 95% confidence interval.
 
