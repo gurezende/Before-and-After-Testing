@@ -12,5 +12,8 @@ This notebook is a tutorial on how to build a **Synthetic Control Sample** gener
 * "scipy>=1.14.1",
 * "seaborn>=0.13.2"
 
+## Medium
+[Read post on Medium](https://medium.com/towards-data-science/synthetic-control-sample-for-before-and-after-a-b-test-683bac36ffc1?sk=a67bdf4a103373f97739fbccab98ff24)
+
 ## Note
-If you get the error that pandas core does not have the method `pd.core.dtypes.common.is_datetime_or_timedelta_dtype`, open the **analysis.py** file from the `causalimpact` library and change it to the newer method `is_datetime64_any_dtype`
+When using `causalimpact`, if you get the error that pandas core does not have the method `pd.core.dtypes.common.is_datetime_or_timedelta_dtype`, open the **analysis.py** file from the `causalimpact` library and change it to the newer method `is_datetime64_any_dtype`
